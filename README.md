@@ -6,5 +6,3 @@ PHP form coded using PHP, HTML5 and CSS3, in the course of systems analysis and 
 A special thanks to Maico Lovatto, a great teacher and mentor.
 
 You can use the codes for your projects if you want, just give the credits please. Thanks! 
-
-- Moro
