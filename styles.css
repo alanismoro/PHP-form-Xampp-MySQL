@@ -1,0 +1,44 @@
+.form_index {
+    display: grid;
+    text-align: center;
+}
+
+.form_inclui {
+    display: grid;
+    text-align: center;
+    font-family: montserrat;
+}
+
+.form_altera {
+    display: grid;
+    text-align: center;
+    font-family: montserrat;
+}
+
+body {
+    background-color:antiquewhite;
+}
+
+p, h2, h3, th, td {
+    font-family: montserrat;
+}
+
+th, td {
+    background-color:wheat;
+}
+
+#button_inclui {
+    width: 10%;
+    height: 35%;
+    padding: 1%;
+    text-align: center;
+    margin: 0 auto;
+    text-indent: initial;
+    padding-bottom: 2%;
+}
+
+header {
+    width: auto;
+    height: 5%;
+    background-color: brown;
+}
